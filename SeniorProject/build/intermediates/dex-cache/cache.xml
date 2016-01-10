@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dev/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.3/78054a81e63d50b73e0cb00e4ba01bb54f9be94f/gdx-backend-android-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78054a81e63d50b73e0cb00e4ba01bb54f9be94f">
+        <dex dex="/Users/Dev/Documents/libGDX/SeniorProject/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.6.3-cc9a8b82a4363febd17776c2d984e72aba0ad2d2.jar" />
+    </item>
+    <item
+        jar="/Users/Dev/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.3/f5848caaa3edeedce92361c61c716a1cb33587f/gdx-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f5848caaa3edeedce92361c61c716a1cb33587f">
+        <dex dex="/Users/Dev/Documents/libGDX/SeniorProject/android/build/intermediates/pre-dexed/debug/gdx-1.6.3-dc629d1eaa1471f7d648f99442128f6d3bf98dcd.jar" />
+    </item>
+    <item
+        jar="/Users/Dev/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.6.3/8573b2dd551b672a9854092de970203ad61b07b5/gdx-controllers-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8573b2dd551b672a9854092de970203ad61b07b5">
+        <dex dex="/Users/Dev/Documents/libGDX/SeniorProject/android/build/intermediates/pre-dexed/debug/gdx-controllers-1.6.3-b75fe80d16731ccd833a4892f443015cdf8066e9.jar" />
+    </item>
+    <item
+        jar="/Users/Dev/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers-android/1.6.3/e9a903a0531a4eeb92a4e9d2cc9de0f4f9953a76/gdx-controllers-android-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9a903a0531a4eeb92a4e9d2cc9de0f4f9953a76">
+        <dex dex="/Users/Dev/Documents/libGDX/SeniorProject/android/build/intermediates/pre-dexed/debug/gdx-controllers-android-1.6.3-c3e6e7aa7ce6df811f9e75fa47e5af7c6a6741f8.jar" />
+    </item>
+    <item
+        jar="/Users/Dev/Documents/libGDX/SeniorProject/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="259b41e3b2edc5dba3b79e77483a473dada964e5">
+        <dex dex="/Users/Dev/Documents/libGDX/SeniorProject/android/build/intermediates/pre-dexed/debug/core-1.0-d7c858529087c7592156cf963fafd56a3bc51742.jar" />
+    </item>
+
+</items>
